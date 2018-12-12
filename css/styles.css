@@ -1,9 +1,11 @@
+html, body {
+  height: 100%;
+}
+
 #canvas-wrapper {
-  height: 100%
+  text-align: center;
 }
 
 #canvas {
-  height: 100%;
-  width: 100%;
-  border: 1px solid blue;
+  border: 1px solid black;
 }
